@@ -8,3 +8,15 @@ Dar vai obraznic el era
  Si trebuia sa il spal mereu
  Uf copii sa stiti ca e greu.
 
+<<<<<<< HEAD
+=======
+Stati copii de ce va speriati
+ Nu e cazul sa mai urlati
+ Motanelul e de plus
+ Am uitat ca nu v-am spus.
+
+Dar acum ca nu sunt mica
+ As vrea sa am o pisica
+ Sa o aud ca face miau
+ Si sa toarca asta vreau.
+>>>>>>> 8b0eb6059994d3647321f7c4c5b510f7d8d2e20a
