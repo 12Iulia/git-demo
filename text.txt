@@ -1,0 +1,7 @@
+some content
+another content
+<<<<<<< HEAD
+-----
+:)
+=======
+>>>>>>> 2fa2820e006a889c3d070325d113ac219feae845
